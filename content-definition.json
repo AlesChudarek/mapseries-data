@@ -444,11 +444,11 @@
   }
  },
  {
-  "field": "490a",
+  "field": "?",
   "name": "test",
-  "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
-  "sheets": "490v",
-  "groupby": "field.substring(0,4)",
+  "grid": "neni",
+  "sheets": "?",
+  "groupby": "???",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a18b7175-2ba6-4ffc-a478-15682acd73e9/248,131,14643,10842/,200/0/default.jpg",
   "description": {
    "cs": "aa",
