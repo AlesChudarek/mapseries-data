@@ -445,7 +445,7 @@
  },
  {
   "field": "490a",
-  "name": "Spezialkarte der österreich-ungarischen Monarchie im Maße 1:75 000",
+  "name": "test",
   "grid": "evropa-treti-vojenske-mapovani-specialni-mapy-175-000",
   "sheets": "490v",
   "groupby": "field.substring(0,4)",
