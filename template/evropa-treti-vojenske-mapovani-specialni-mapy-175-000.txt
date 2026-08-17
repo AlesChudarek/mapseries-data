@@ -20,7 +20,7 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr", "xr", "xr", "xr","xr", "xr", "xr", "au", "au", "xr", "gw", "ru", "hu"]
+    "valuesByBaseIndex": ["au", "xr", "xr", "xr", "xr","xr"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
