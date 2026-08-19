@@ -1,1 +1,13 @@
-ahoj
+245   L $$a{
+    "title": "Název listu",
+    "value": { "attr": "N245A" }
+  }
+250   L $$a{
+    "id": "vydani",
+    "title": "Číslo vydání",
+    "width": 10
+  }
+500   L $$a{
+    "title": "Barevnost",
+    "values": ["Jednobarevný", "Dvoubarevný", "Vícebarevný"]
+  }
