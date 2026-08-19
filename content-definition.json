@@ -454,5 +454,17 @@
    "cs": "aa",
    "en": "aa"
   }
+ },
+ {
+  "field": "490a",
+  "name": "test2",
+  "grid": "test2",
+  "sheets": "490v",
+  "groupby": "field.substring(0,5)",
+  "thumbnailUrl": "https://avatars.githubusercontent.com/u/194496854?v=4",
+  "description": {
+   "cs": "22",
+   "en": "222"
+  }
  }
 ]
