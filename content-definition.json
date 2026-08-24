@@ -466,5 +466,15 @@
    "cs": "22",
    "en": "222"
   }
+ },
+ {
+  "field": "490a",
+  "name": "testtest",
+  "grid": "testtest",
+  "sheets": "490v",
+  "groupby": "field.substring(0,4)",
+  "thumbnailUrl": "test",
+  "description": {
+  }
  }
 ]
