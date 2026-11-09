@@ -84,7 +84,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Československý vojenský zeměpisný ústav",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav (1945-1951)"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

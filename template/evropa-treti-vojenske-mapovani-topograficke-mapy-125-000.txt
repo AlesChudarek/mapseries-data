@@ -90,7 +90,7 @@ LDR   L -----nem-a22------i-4500
       "Československo.$$bMinisterstvo národní obrany.$$bKartografické oddělení",
       "Zeměpisný ústav Ministerstva vnitra",
       "Zeměměřičský úřad Čechy a Morava",
-      "Zeměměřický úřad",
+      "Zeměměřický úřad (1945-1950)",
       "Československý vojenský zeměpisný ústav",
       "Rakousko.$$bKartographisches Institut"
     ]

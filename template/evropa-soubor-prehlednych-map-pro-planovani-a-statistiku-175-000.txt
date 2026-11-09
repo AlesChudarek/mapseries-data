@@ -83,7 +83,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Ústřední správa geodézie a kartografie",
-      "Zeměměřický úřad",
+      "Zeměměřický úřad (1945-1950)",
       "Státní zeměměřický a kartografický ústav"
     ]
   }$$4ctg$$4pbl$$7{
