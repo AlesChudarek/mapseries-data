@@ -85,9 +85,9 @@ LDR   L -----nem-a22------i-4500
     "values": [
       "Česko. Armáda. Generální štáb",
       "Československo. Armáda. Generální štáb",
-      "Vojenský zeměpisný ústav",
-      "1. vojenský zeměpisný ústav Praha",
-      "1. vojenský kartografický ústav"]
+      "Vojenský zeměpisný ústav (1945-1951)",
+      "1. Vojenský zeměpisný ústav Praha",
+      "1. Vojenský kartografický ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

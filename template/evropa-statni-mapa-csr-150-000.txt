@@ -78,8 +78,8 @@ LDR   L -----nem-a22------i-4500
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Zeměměřický úřad",
-      "Vojenský zeměpisný ústav"]
+      "Zeměměřický úřad (1945-1950)",
+      "Vojenský zeměpisný ústav (1945-1951)"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

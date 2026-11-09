@@ -79,8 +79,8 @@ LDR   L -----nem-a22------i-4500
     "width":60,
     "title":"Vydavatelská korporace",
     "values": [
-      "Německo.$$bReichsamt für Landesaufnahme.",
-      "Německo.$$bHeer.$$bGeneralstab."]
+      "Německo.$$bReichsamt für Landesaufnahme",
+      "Německo.$$bHeer.$$bGeneralstab"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,

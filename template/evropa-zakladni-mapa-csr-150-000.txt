@@ -87,7 +87,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010724363", "", "ko2003206598", "ko2004260222", "ko2003167949", "ko2004231816 "]
+    "valuesByBaseIndex": ["kn20010724363", "", "ko2003206598", "ko2004260222", "ko2003167949", "ko2004231816"]
   }
 24510 L $$a{
     "title": "Název",

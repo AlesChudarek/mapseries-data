@@ -78,7 +78,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Ústřední ústav geologický",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav (1945-1951)"]
   }$$4com$$4pbl$$7{
     "base":"corporation",
     "width": 13,

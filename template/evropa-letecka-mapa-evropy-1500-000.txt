@@ -83,7 +83,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Vydavatelská korporace",
     "values": [
       "Československo.$$bMinisterstvo dopravy (1945-1960).$$cLetecký odbor",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav (1945-1951)"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
@@ -229,7 +229,7 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Zeměměřický úřad$$4ctg$$7mzk2015883345",
+    "Zeměměřický úřad (1945-1950)$$4ctg$$7mzk2015883345",
     ""
   ]
 }

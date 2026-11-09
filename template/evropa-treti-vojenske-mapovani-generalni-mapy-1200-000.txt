@@ -90,7 +90,7 @@ LDR   L -----nem-a22------i-4500
       "Československo.$$bMinisterstvo národní obrany.$$bKartografické oddělení",
       "Zeměpisný ústav Ministerstva vnitra",
       "Zeměměřičský úřad Čechy a Morava",
-      "Zeměměřický úřad",
+      "Zeměměřický úřad (1945-1950)",
       "Německo.$$bReichsamt für Landesaufnahme.$$bHauptvermessungsabteilung XIV in Wien"
     ]
   }$$4ctg$$4pbl$$7{
@@ -282,9 +282,9 @@ LDR   L -----nem-a22------i-4500
     "",
     "",
     "",
-    "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
-    "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
-    "Vojenský zeměpisný ústav$$4ant$$7ko2005263855",
+    "Vojenský zeměpisný ústav (1945-1951)$$4ant$$7ko2005263855",
+    "Vojenský zeměpisný ústav (1945-1951)$$4ant$$7ko2005263855",
+    "Vojenský zeměpisný ústav (1945-1951)$$4ant$$7ko2005263855",
     "Rakousko.$$bKartographisches Institut$$4ant$$7uk2011388116"
   ]
 }

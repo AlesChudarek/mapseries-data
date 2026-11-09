@@ -68,12 +68,12 @@ LDR   L -----nem-a22--------4500
     "title":"Vydavatelská korporace",
     "values": [
       "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav (1945-1951)"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20060405003", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
