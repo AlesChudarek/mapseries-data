@@ -195,7 +195,12 @@ LDR   L -----nem-a22------i-4500
     "Pětibarevný otisk"
     ]
   }
-500   L $$aDalší údaje o vydání: Nové měření z r. 1930 ; Rok vydání 1933
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání: Nové měření z r. 1930 ; Rok vydání 1933"]
+  }
 500   L $$aNázev odvozen z listu speciální mapy 1:75 000
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 7 L {

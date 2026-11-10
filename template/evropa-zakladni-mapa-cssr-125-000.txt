@@ -201,7 +201,12 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: tištěno v r. 1974, zpracováno v r. 1974 na podkladě základní mapy 1:10 000 z r. 1971-1972, klad listů 1:10 000 a správní hranice v mimorámových údajích 
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání: tištěno v r. 1974, zpracováno v r. 1974 na podkladě základní mapy 1:10 000 z r. 1971-1972, klad listů 1:10 000 a správní hranice v mimorámových údajích "]
+  }
 650 7 L $$atopografie$$7ph126691$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",

@@ -226,7 +226,12 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: Stav ke dni 1. 1. 1977 ; Vyšlo v r. 1978 ; Pro vnitřní potřebu státních orgánů a socialistických organizací ; Stav odborného obsahu k r. 1970
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání: Stav ke dni 1. 1. 1977 ; Vyšlo v r. 1978 ; Pro vnitřní potřebu státních orgánů a socialistických organizací ; Stav odborného obsahu k r. 1970"]
+  }
 650 7 L $$atopografie$$7ph126691$$2czenas
 650 7 L $$asídelní geografie$$7ph116378$$2czenas
 651 7 L {
