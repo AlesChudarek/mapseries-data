@@ -205,7 +205,12 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: 1. Topografická mapa 1:50 000 obnovená podle topografických map 1:25 000 z r. 1990, zahraniční území podle tiskových podkladů topografické mapy PR 1:50 000 se stavem k r. 1976-84 ; Rámové a mimorámové údaje upraveny v roce 1995
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání: 1. Topografická mapa 1:50 000 obnovená podle topografických map 1:25 000 z r. 1990, zahraniční území podle tiskových podkladů topografické mapy PR 1:50 000 se stavem k r. 1976-84 ; Rámové a mimorámové údaje upraveny v roce 1995"]
+  }
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
     "id":"identifikator",
